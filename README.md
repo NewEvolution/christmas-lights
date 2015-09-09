@@ -1,4 +1,4 @@
-#Christmas Lights
+#Exercise: Christmas Lights
 
 _The Challenge_:
 
